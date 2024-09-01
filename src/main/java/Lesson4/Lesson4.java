@@ -1,8 +1,8 @@
-package Lesson2;
+package Lesson4;
 
 import java.util.Arrays;
 
-public class Lesson2 {
+public class Lesson4 {
 
     /*
      * Создайте метод printThreeWords(),

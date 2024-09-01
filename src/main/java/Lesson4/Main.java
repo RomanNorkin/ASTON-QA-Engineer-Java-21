@@ -1,8 +1,8 @@
-package Lesson2;
+package Lesson4;
 
 import java.util.Arrays;
 
-import static Lesson2.Lesson2.*;
+import static Lesson4.Lesson4.*;
 
 public class Main {
     public static void main(String[] args) {
