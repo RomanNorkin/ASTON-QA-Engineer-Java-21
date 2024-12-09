@@ -4,7 +4,7 @@ public class Rectangle implements Shape, Fillable, Borderlands {
     private double width;
     private double height;
     private String incolor;
-    private String outcolor;
+    private String outcolor; 
 
     public Rectangle(double width, double height) {
         this.width = width;
