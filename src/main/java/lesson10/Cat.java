@@ -1,4 +1,4 @@
-package lesson7;
+package lesson10;
 
 public class Cat extends Animal {
     static int catFood = 10;

@@ -1,4 +1,4 @@
-package lesson7;
+package lesson10;
 
 public class Bowl extends Cat {
     int catFood = 10;
