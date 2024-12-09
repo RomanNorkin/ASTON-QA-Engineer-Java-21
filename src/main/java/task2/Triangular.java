@@ -1,4 +1,4 @@
-package task2;
+package task2; 
 
 public class Triangular implements Shape, Fillable, Borderlands {
     private double side1;
