@@ -10,7 +10,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-
+        System.out.println("Задание 1\n");
+        Task1.main(args);
+        System.out.println("\n\nЗадание 2\n");
 
         PhoneBook phoneBook = new PhoneBook();
 
