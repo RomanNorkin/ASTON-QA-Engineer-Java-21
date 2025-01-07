@@ -3,7 +3,7 @@ import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
 
-public class Lesson16 {
+public class Lesson17 {
 
     @Test
     public void lesson17GETRequest() {
