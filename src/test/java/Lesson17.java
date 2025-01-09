@@ -59,7 +59,6 @@ public class Lesson16 {
                
     }
 
-    //application/x-www-form-urlencoded; charset=utf-8
     @Test
     public void lesson17PUTRequest() {
 
